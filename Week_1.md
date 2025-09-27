@@ -33,3 +33,5 @@ Inside the terminal, there are basic commands we can use to explore Kali.
   - `touch`, `rm`
   - `ls`, `cd`
   - `cat`, `echo`, `grep`
+- **What they mean**
+  - `pwd` --> 
