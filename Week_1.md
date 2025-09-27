@@ -13,12 +13,8 @@ The CIA triad refers to the three main ideas for any cybersecurity work when des
 
 ### Availability
 
-## Common Threats
-
-
-
 ## First looks at Kali Linux
-
+On each computer, there is a virtual machine loaded with Kali Linux. Kali Linux is a special branch of Linux that is used specifically for cybersecurity tasks such as penetration testing and analysis. Something that puts Kali Linux above other versions of Linux is the ease of access, as Kali Linux comes preloaded with popular and effective security tools, which saves time from downloading them individually.
 
 
 ## Linux Command Line Basics
