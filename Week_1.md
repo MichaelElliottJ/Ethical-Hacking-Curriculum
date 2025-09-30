@@ -34,4 +34,12 @@ Inside the terminal, there are basic commands we can use to explore Kali.
   - `ls`, `cd`
   - `cat`, `echo`, `grep`
 - **What they mean**
-  - `pwd` --> 
+  - `pwd` --> print working directory
+  - `mkdir` --> make a new directory (folder)
+  - `touch` --> creates a new empty file
+  - `rm` --> remove
+  - `ls` --> list the contents of the current folder
+  - `cd` --> change working directory
+  - `cat` --> displays file contents
+  - `echo` --> displays a given message, or a variable if one is defined
+  - `grep` --> searches for a specific string within a file
