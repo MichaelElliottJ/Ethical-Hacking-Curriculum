@@ -1,4 +1,4 @@
-# Week 2: More Kali Linux Experience, First CTF Challenge, and Virtual Machines
+# Week 2: More Kali Linux Experience and Networks
 
 # Kali Linux: Scanning Networks
 
@@ -207,40 +207,3 @@ Device Type: (laptop, phone, printer, etc.)
 2. **Ping each IP** in your range systematically
 3. **Document responding devices** with IP and MAC
 4. **Identify the mystery device** by process of elimination
-
-### Safety Tips
-- ✅ Use HTTPS for sensitive information
-- ✅ Be careful with public WiFi
-- ✅ Don't share your network passwords
-- ❌ Don't click suspicious links
-- ❌ Don't connect to unknown networks
-- ✅ Only scan your own network (with permission)
-
----
-
-## 🏆 Network Detective Challenge
-
-**Your Mission:** Find the mystery device on the network!
-
-### Step-by-Step Process:
-1. **Get your network info:** `ipconfig` or `ifconfig`
-2. **Find your network range:** Look at your IP and subnet mask
-3. **Scan systematically:** `ping` each IP in your range
-4. **Document devices:** Record IP, MAC, and response times
-5. **Identify mystery device:** Compare with known devices
-
-### Tools You'll Use:
-- `ipconfig` / `ifconfig` - Find your network
-- `ping` - Test device connectivity
-- `arp -a` - View known devices
-- `traceroute` - Map network paths
-- Team collaboration
-- Problem-solving skills
-
-### Mystery Device Clues:
-- It responds to ping
-- It has a unique MAC address
-- It might be a printer, IoT device, or hidden device
-- Compare with your team's devices
-
----
