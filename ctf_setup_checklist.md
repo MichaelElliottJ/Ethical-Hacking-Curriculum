@@ -3,36 +3,6 @@
 
 ---
 
-## 📋 Pre-Event Planning (1-2 weeks before)
-
-### Event Logistics
-- [ ] **Confirm event date, time, and location**
-- [ ] **Determine number of participants** (max 20-25 students)
-- [ ] **Book venue with adequate space** (computer lab or classroom)
-- [ ] **Arrange for backup power** (UPS or generator if needed)
-- [ ] **Plan for snacks and refreshments**
-- [ ] **Prepare parent permission forms** (if required)
-- [ ] **Create emergency contact list**
-
-### Staff Planning
-- [ ] **Assign lead instructor** (1 person)
-- [ ] **Assign assistant instructors** (1 per 8 students)
-- [ ] **Assign technical support** (2 people)
-- [ ] **Assign safety monitor** (1 person)
-- [ ] **Schedule staff briefing** (day before event)
-- [ ] **Prepare staff contact list**
-
-### Materials Preparation
-- [ ] **Print achievement badges** (12 different types)
-- [ ] **Print student guides** (1 per student)
-- [ ] **Print instructor quick reference** (1 per instructor)
-- [ ] **Print kids' cheat sheet** (1 per student)
-- [ ] **Print scorecards** (1 per student)
-- [ ] **Print safety rules** (1 per student)
-- [ ] **Prepare stickers and small prizes**
-
----
-
 ## 🖥️ Hardware Setup (3-5 days before)
 
 ### Raspberry Pi Preparation
@@ -360,29 +330,6 @@
 - [ ] **Record common challenges**
 - [ ] **Note successful strategies**
 - [ ] **Plan improvements for next event**
-
----
-
-## ✅ Success Metrics
-
-### Technical Success
-- [ ] **All 12 flags are findable**
-- [ ] **All tools work correctly**
-- [ ] **Network remains stable**
-- [ ] **No equipment failures**
-
-### Educational Success
-- [ ] **Students learn new skills**
-- [ ] **Students complete challenges**
-- [ ] **Students have fun**
-- [ ] **Students want to learn more**
-
-### Safety Success
-- [ ] **No unauthorized access attempts**
-- [ ] **No equipment damage**
-- [ ] **No safety incidents**
-- [ ] **All students follow rules**
-
 ---
 
 **Remember:** The goal is education and fun in a safe, controlled environment! 🎓 
