@@ -1,10 +1,8 @@
-# Week 3: CTF
-
-## 12 Flags Across 3 Raspberry Pis
+# Week 3: CTF Challenge 1
 
 ### 🎯 Game Overview
 
-**Objective:** Students must find and capture 12 flags hidden across 3 Raspberry Pi devices using various cybersecurity techniques including Metasploit, John the Ripper, password cracking, privilege escalation, and network reconnaissance.
+**Objective:** Students must find and capture flags hidden across a Raspberry Pi device using various cybersecurity techniques including Metasploit, John the Ripper, password cracking, privilege escalation, and network reconnaissance.
 **Tools Required:** Metasploit, John the Ripper, Nmap, Angry IP Scanner, SSH clients
 
 ---
